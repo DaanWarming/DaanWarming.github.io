@@ -1,1 +1,1 @@
-# pricing-component-with-toggle
+Show live demo here: https://daanwarming.github.io/pricing-component-with-toggle/
